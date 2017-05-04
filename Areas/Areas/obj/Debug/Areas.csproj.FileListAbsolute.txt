@@ -1,0 +1,6 @@
+c:\users\rayn\documents\visual studio 2015\Projects\Areas\Areas\bin\Debug\Areas.exe.config
+c:\users\rayn\documents\visual studio 2015\Projects\Areas\Areas\obj\Debug\Areas.csprojResolveAssemblyReference.cache
+c:\users\rayn\documents\visual studio 2015\Projects\Areas\Areas\bin\Debug\Areas.exe
+c:\users\rayn\documents\visual studio 2015\Projects\Areas\Areas\bin\Debug\Areas.pdb
+c:\users\rayn\documents\visual studio 2015\Projects\Areas\Areas\obj\Debug\Areas.exe
+c:\users\rayn\documents\visual studio 2015\Projects\Areas\Areas\obj\Debug\Areas.pdb
